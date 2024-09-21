@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iamank-it
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...NSU
+- 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...Website Projects
 - 📫 How to reach me ...iamank.it1308@gmail.com
 - 😄 Pronouns: ...he/him
